@@ -1,4 +1,5 @@
 Practice with Go
 ================
 
-- Word counter
+- [Word counter](/wc)
+- [Todo list](/todo)
